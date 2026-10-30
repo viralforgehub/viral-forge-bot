@@ -1,0 +1,9 @@
+{
+  "daily_shorts": 3,
+  "video_duration": 45,
+  "aspect_ratio": "9:16",
+  "language": "English",
+  "captions": true,
+  "upload_mode": "manual",
+  "source_type": "licensed"
+}
